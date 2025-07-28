@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-28T21:06:51.668449",
+    "challenge_info": {
+      "challenge_id": "round_1b_002",
+      "test_case_name": "travel_planner",
+      "description": "France Travel"
+    }
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Boat Trip to the Calanques",
+      "importance_rank": 1,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "This guide will take you through the histories of major cities, famous historical sites, and other",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "France promises an unforgettable journey filled with memories that will last a lifetime. Use",
+      "importance_rank": 3,
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Planning a trip to the South of France requires thoughtful preparation to ensure a",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "The South of France, with its stunning coastline, picturesque villages, and vibrant cities, oﬀers",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Bordeaux",
+      "importance_rank": 6,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or",
+      "importance_rank": 7,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "The South of France oﬀers a rich and diverse culinary landscape that is sure to delight any",
+      "importance_rank": 8,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Dordogne River",
+      "importance_rank": 9,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Provence, or the charming squares of Montpellier, you'll find a wealth of historical treasures",
+      "importance_rank": 10,
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Aix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical",
+      "importance_rank": 11,
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Packing for a trip to the South of France involves considering the season, planned activities",
+      "importance_rank": 12,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "The South of France oﬀers a wide range of dining and accommodation options to suit every",
+      "importance_rank": 13,
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Make copies of your passport, travel insurance, and",
+      "importance_rank": 14,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Salade Niçoise: A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans",
+      "importance_rank": 15,
+      "page_number": 3
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": ": Take a boat trip to the Calanques, a series of stunning limestone cliﬀs and coves along the coast",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "points of interest to help you plan an enriching and unforgettable trip",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "this guide to plan your trip and make the most of everything this beautiful region has to oﬀer",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "comfortable and enjoyable experience Whether you're traveling solo, with kids, or in a group, this guide will help you make the most of your trip This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "a wealth of activities and experiences for travelers This guide will take you through a variety of activities and must-see attractions to help you plan an unforgettable trip Whether you're seeking adventure, relaxation, or cultural enrichment, this region has something for everyone",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": ": Take a day trip to the world-renowned wine region and visit its prestigious châteaux",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "luxurious experiences, this guide will help you find the perfect restaurants and hotels for your trip",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "From fresh seafood and Provençal dishes to iconic restaurants and unique culinary experiences, there is something for everyone to enjoy Use this guide to plan your culinary journey and savor the tastes of the South of France, creating memories that will linger long after your trip has ended Wheth...",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": ": Enjoy a leisurely canoe trip, passing by medieval castles and charming villages",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "waiting to be discovered Use this guide to plan your journey through the South of France and immerse yourself in the fascinating history of this beautiful region",
+      "page_number": 12
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "treasures and cultural experiences waiting to be discovered Use this guide to plan your journey through the South of France and immerse yourself in the fascinating history and culture of this beautiful region",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "and the needs of both adults and children By following this comprehensive guide and incorporating the tips and tricks provided, you'll be well-prepared for a comfortable and enjoyable trip Remember to pack light, versatile clothing, and essential items to make the most of your travel experience",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "budget and preference From the vibrant cities of Nice and Marseille to the charming villages of Provence, the South of France promises an unforgettable travel experience Whether you're looking for budget-friendly eateries, family-friendly spots, upscale dining, or luxurious experiences, this guid...",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "other important documents Keep them separate from the originals",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "olives, and anchovies, dressed with olive oil and vinegar Salade Niçoise is a perfect example of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins, and healthy fats It's a light yet satisfying dish that is perfect for a warm summer day",
+      "page_number": 3
+    }
+  ]
+}
