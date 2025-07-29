@@ -5,11 +5,12 @@ This project is a robust, multilingual PDF analyzer designed for the Adobe Hacka
 
 ## Folder Structure
 ```
+├── main.py          # Extracts title and outline (H1/H2/H3) from PDFs
+├── README.md             # This file
 app/
 ├── input/                # Place your input PDF files here
 ├── output/               # Extractor and analyzer outputs are saved here
-├── main.py          # Extracts title and outline (H1/H2/H3) from PDFs
-├── README.md             # This file
+
 ```
 
 ## How It Works
