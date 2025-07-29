@@ -4,8 +4,8 @@ import json
 import pdfplumber
 from collections import Counter
 
-INPUT_DIR = "/app/input"
-OUTPUT_DIR = "/app/output"
+INPUT_DIR = "app/input"
+OUTPUT_DIR = "app/output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def is_noise(line, repeated_lines, line_context):
